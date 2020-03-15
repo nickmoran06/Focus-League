@@ -1,0 +1,16 @@
+{
+    "name": "Focus league",
+    "description": "Stay focused and beat procrastination with friends on Chrome",
+    "version": "1.0",
+    "icons": {
+        "16": "images/focus_league16.png",
+        "32": "images/focus_league32.png",
+        "48": "images/focus_league48.png",
+        "128": "images/focus_league128.png"
+      },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Focus league"
+    },
+    "manifest_version": 2
+}
