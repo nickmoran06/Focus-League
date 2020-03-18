@@ -13,19 +13,27 @@
                 height: 400px;
                 background: white;
             }
+            #timer {
+                font-size: 50px;
+                color: red;
+            }
         </style>
+        <script>
+            chrome.tabs.getSelected(null,function(tab) {
+             var tablink = tab.url;
+            });
+            document.getElementById("Myurl").innerHTML = tablink;
+        </script>
     </head>
     <body>
-        <header>
-            <img src="images/Flecha_atrás.png" width="23" height="23">
-            <img src="images/focus_leagueLOGO.png" width="45" height="45">
-            <h1>Cómo es</h1>
-        </header>
         <nav>
+            <div id="timer">
+                <script src="js/timer.js"></script>
+            </div>
+                <h1>My current url is: <span id="Myurl"></span></h1>
         </nav>
         <section>
             <article>
-                <p>Cómo sería</p>
             </article>
         </section>
     </body>
