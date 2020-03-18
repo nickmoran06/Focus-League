@@ -49,6 +49,3 @@ We wanted to create this chrome extension so that we and our co-workers can comp
 #### Authors
  - Diego Ramos [Github](https://github.com/DiegoRmsR) [LinkedIn](https://www.linkedin.com/in/diego-ramos-266069188/) [Twitter](https://twitter.com/Imdiegoramoss)
  - Nicolás Morán [Github](https://github.com/nickmoran06) [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-esteban-mor%C3%A1n-pulido-31b667188/) [Twitter](https://twitter.com/nickmoran06)
-
-#### Github Repository
-https://github.com/nickmoran06/Focus_League
