@@ -2,16 +2,23 @@
     "name": "Focus league",
     "description": "Stay focused and beat procrastination with friends on Chrome",
     "version": "1.0",
-    "permissions": ["activeTab",
+    "content_scripts": [
+        {
+            "js": ["jquery.js"]
+        }
+    ],
+    "permissions": [
+        "activeTab",
         "declarativeContent",
         "storage",
-    "tabs"],
+        "tabs"
+    ],
     "icons": {
         "16": "images/focus_league16.png",
         "32": "images/focus_league32.png",
         "48": "images/focus_league48.png",
         "128": "images/focus_league128.png"
-      },
+    },
     "browser_action": {
         "default_icon": "images/focus_leagueLOGO.png",
         "default_popup": "popup.html",
@@ -23,5 +30,6 @@
             "128": "images/focus_league128.png"
           }
     },
+    "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js; object-src 'self'",
     "manifest_version": 2
 }
