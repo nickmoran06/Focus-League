@@ -1,4 +1,4 @@
-# <a href="https://imgur.com/eIi9NEM"><img src="https://i.imgur.com/eIi9NEM.png"></a> Focus League
+# <a href="https://imgur.com/eIi9NEM"><img src="https://i.imgur.com/eIi9NEM.png"></a> Focus Time
 
 Stay focused and beat procrastination with friends on Chrome.
 
