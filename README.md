@@ -12,11 +12,15 @@ Stay focused and beat procrastination with friends on Chrome.
 #### Be more productive
 Keep track of how many hours you're on productive pages.
 
-#### Compete with your friends
-Through a leaderboard, compete to find out which one has more hours of productivity.
+#### Chronometer
+The way to count the time.
+
+<a href="https://imgur.com/HuxC7Al"><img src="https://i.imgur.com/HuxC7Al.png"></a>
 
 #### Websites for developers only
 All developer pages are productive. Pages like Stackoverflow, Github or even Google Keep Notes are pages that will help you get on the leaderboard.
+
+<a href="https://imgur.com/91xdeD7"><img src="https://i.imgur.com/91xdeD7.png" width="500" height="100"></a>
 
 ## Instalation
 
