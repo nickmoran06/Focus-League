@@ -31,6 +31,8 @@ All developer pages are productive. Pages like Stackoverflow, Github or even Goo
 git clone https://github.com/nickmoran06/Focus_League.git
 ```
 
+* Go to the folder and delete the ``` _config.yml ``` file. That is a file for the landing page, and it doesn't let use the extension.
+
 * Review where your browser manage the extensions, in this case I will use Google Chrome as a example.
 
 * Type chrome://extensions in your browser to go where manage the extensions.
